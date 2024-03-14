@@ -15,6 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/express": "^4.17.21",
+    "@types/node": "^20.11.27",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.4.2"
   },

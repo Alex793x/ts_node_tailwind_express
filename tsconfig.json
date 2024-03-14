@@ -12,6 +12,6 @@
     "strict": true,
     "skipLibCheck": true,
   },
-  "include": ["*.ts", "public/**/*.ts", "components/**/*.ts", "assets/**/*.ts", "utils/**/*.ts"],
+  "include": ["*.ts", "public/**/*.ts", "components/**/*.ts", "assets/**/*.ts", "utils/**/*.ts", "modules/**/*.ts"],
   "exclude": ["node_modules"]
 }
